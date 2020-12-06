@@ -6,9 +6,9 @@
 
 This is a project for the Web Development course at the Minneapolis College of Art and Deisgn. In this example, we dissect the excellent [Wolff Olins homepage](https://www.wolffolins.com/), and then develop a simple component library from our study.
 
-- [Initial Design Study](assets/wolff-olins-web-study.pdf)
+- [Initial Design Study](assets/hotel-palette-web-study.pdf)
 - [Component Library](https://jxjj.github.io/wolff-olins-casestudy/components/)
-- [Homepage Recreation](https://jxjj.github.io/wolff-olins-casestudy/)
+- [Homepage Recreation](https://chrissienelson.github.io/hotel-palette-casestudy/index/)
 
 ## Author
 
